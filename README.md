@@ -1,2 +1,2 @@
 # demo
-这是一个学习测试。This is a student demo.
+这是一个学习测试。This is a learning demo.
